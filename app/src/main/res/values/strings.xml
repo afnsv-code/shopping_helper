@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">shopping_helper</string>
+    <string name="btn_reset">Reset</string>
+    <string name="result_info">result</string>
+    <string name="app_caps">Conversion to standard units of measurement</string>
+    <string name="btn_text">Calc</string>
+    <string name="inp_weight">Input value</string>
+    <string name="inp_price">Input price</string>
+    <string name="empty_field">Empty field</string>
+    <string name="cap_weight">g/Kg/ml/L</string>
+    <string name="cap_price">Rub</string>
+    <string name="cap_result">Unit price</string>
+</resources>

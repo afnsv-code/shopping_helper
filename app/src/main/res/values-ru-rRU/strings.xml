@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Помощник</string>
+    <string name="app_caps">Пересчет к стандартным единицам измерения</string>
+    <string name="btn_text">Расчет</string>
+    <string name="btn_reset">Сброс</string>
+    <string name="inp_weight">Введите вес/объём</string>
+    <string name="inp_price">Введите цену</string>
+    <string name="result_info">Стоимость 1</string>
+    <string name="empty_field">Пустое значение</string>
+    <string name="cap_weight">гр/Кг/мл/Л</string>
+    <string name="cap_price" >руб.</string>
+    <string name="cap_result">Стоимость</string>
+</resources>
